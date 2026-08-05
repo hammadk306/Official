@@ -41,8 +41,19 @@ Currently, I'm deepening my expertise in AI engineering, exploring large languag
 
 #### Contribution Snake
 
+#### Contribution Snake
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadk306/hammadk306/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hammadk306/hammadk306/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hammadk306/hammadk306/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hammadk306/Official/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hammadk306/Official/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Snake"
+    src="https://raw.githubusercontent.com/hammadk306/Official/output/github-contribution-grid-snake.svg"
+  />
 </picture>
