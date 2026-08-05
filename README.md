@@ -41,8 +41,6 @@ Currently, I'm deepening my expertise in AI engineering, exploring large languag
 
 #### Contribution Snake
 
-#### Contribution Snake
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
