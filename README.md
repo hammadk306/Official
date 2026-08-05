@@ -44,5 +44,5 @@ Currently, I'm deepening my expertise in AI engineering, exploring large languag
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadk306/hammadk306/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hammadk306/hammadk306/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/khaan25/khaan25/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hammadk306/hammadk306/output/github-contribution-grid-snake.svg" />
 </picture>
