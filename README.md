@@ -35,7 +35,7 @@ Currently, I'm deepening my expertise in AI engineering, exploring large languag
 
 #### Links
 
-<a href="https://hammadkashif.com"><img src="https://cdn.simpleicons.org/vercel/000/fff" width="22" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/hammadkashif"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="22" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/zia_webdev"><img src="https://cdn.simpleicons.org/googlecalendar" width="22" alt="Book a Call" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:info@hammadkashif.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Email" /></a>
+<a href="https://hammadkashif.com"><img src="https://cdn.simpleicons.org/vercel/000/fff" width="22" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/hammadkashif"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="22" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="https://calendly.com/hammadk8490/30min"><img src="https://cdn.simpleicons.org/googlecalendar" width="22" alt="Book a Call" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:info@hammadkashif.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Email" /></a>
 
 ---
 
